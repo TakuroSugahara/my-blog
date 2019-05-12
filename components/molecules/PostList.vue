@@ -24,9 +24,8 @@
           </v-img>
           <v-card-title>
             <div>
-              <span class="grey--text">Number 10</span><br />
-              <span>Whitehaven Beach</span><br />
-              <span>Whitsunday Island, Whitsunday Islands</span>
+              <!-- <span class="grey--text">Number 10</span><br /> -->
+              <h3>Title</h3>
             </div>
           </v-card-title>
         </v-card>
