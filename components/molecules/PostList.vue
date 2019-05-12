@@ -8,7 +8,7 @@
         sm6
         class="pt-3 px-2"
       >
-        <v-card>
+        <v-card :to="'/post/' + index">
           <v-img
             class="white--text"
             height="200px"
